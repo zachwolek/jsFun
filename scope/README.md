@@ -15,6 +15,7 @@ In order to be successful with scope, you'll need to have a solid understanding 
 
 In the [scope/index.js](https://github.com/turingschool-examples/jsFun/scope/index.js) file, you'll see an object called `scope` that has a number of methods on it. Each method represents a scope exercise you should solve. The exercises will look something like the following:
 
+
 ```js
 let text = 'Hello World!';
 
